@@ -10,9 +10,7 @@
 npm start
 ```
 
-![截图-开始](https://s2.ax1x.com/2020/01/13/lHct0S.md.png)
-![截图-游戏](https://s2.ax1x.com/2020/01/13/lHcGOf.md.png)
-![截图-失败](https://s2.ax1x.com/2020/01/13/lHcYm8.md.png)
+<img src="https://s2.ax1x.com/2020/01/13/lHct0S.md.png" width="300"/> <img src="https://s2.ax1x.com/2020/01/13/lHcGOf.md.png" width="300"/> <img src="https://s2.ax1x.com/2020/01/13/lHcYm8.md.png" width="300"/>
 
 ## 开发步骤
 
