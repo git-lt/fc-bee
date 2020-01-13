@@ -1,0 +1,16 @@
+{
+  "name": "fc-bee",
+  "version": "1.0.0",
+  "description": "使用 Phaserjs3 + TS 重构 FC 小蜜蜂",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "phaser": "^3.21.0",
+    "typescript": "^3.7.4"
+  }
+}
