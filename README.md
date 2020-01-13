@@ -10,9 +10,9 @@
 npm start
 ```
 
-![截图-开始](https://imgchr.com/i/lHct0S)
-![截图-游戏](https://imgchr.com/i/lHcGOf)
-![截图-失败](https://imgchr.com/i/lHcYm8)
+![截图-开始](https://s2.ax1x.com/2020/01/13/lHct0S.md.png)
+![截图-游戏](https://s2.ax1x.com/2020/01/13/lHcGOf.md.png)
+![截图-失败](https://s2.ax1x.com/2020/01/13/lHcYm8.md.png)
 
 ## 开发步骤
 
