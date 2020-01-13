@@ -10,7 +10,7 @@
 npm start
 ```
 
-<img src="https://s2.ax1x.com/2020/01/13/lHct0S.md.png" width="260"/> <img src="https://s2.ax1x.com/2020/01/13/lHcGOf.md.png" width="260"/> <img src="https://s2.ax1x.com/2020/01/13/lHcYm8.md.png" width="260"/>
+<img src="https://s2.ax1x.com/2020/01/13/lHct0S.md.png" width="260"/> <img src="https://s2.ax1x.com/2020/01/13/lHcYm8.md.png" width="260"/> <img src="https://s2.ax1x.com/2020/01/13/lHcGOf.png" width="260"/>
 
 ## 开发步骤
 
